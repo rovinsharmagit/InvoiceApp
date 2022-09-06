@@ -9,10 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-picker/picker": "^2.4.2",
+    "@react-navigation/native": "^6.0.12",
+    "@react-navigation/native-stack": "^6.8.0",
+    "dateformat": "^5.0.3",
     "expo": "~46.0.9",
+    "expo-print": "^11.3.0",
+    "expo-sharing": "^10.3.0",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.5"
+    "react-native": "0.69.5",
+    "react-native-safe-area-context": "^4.3.1",
+    "react-native-screens": "~3.15.0",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
